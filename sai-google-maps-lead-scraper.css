@@ -1,0 +1,34 @@
+/* Styles for SAI Google Maps Lead Scraper table */
+.sgmls-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.sgmls-table th, .sgmls-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.sgmls-table th {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+.sgmls-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.sgmls-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+.sgmls-table th, .sgmls-table td {
+    padding: 12px 15px;
+}
+
+.sgmls-table th {
+    background-color: #0073aa;
+    color: white;
+}
